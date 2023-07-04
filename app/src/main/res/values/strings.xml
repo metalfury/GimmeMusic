@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GimmeMusic</string>
+    //textbox
+    <string name="karsilamaString">Yeni dünyalara açılmaya hazır mısınız?</string>
+    <string name="sorString">Bugün Nasıl Hissediyorsun?</string>
+
+    //button
+    <string name="btnGiris">HAYDİ BAŞLAYALIM!</string>
+    <string name="btnRastgele">RASTGELE</string>
+    <string name="btnGimme">GIMME MUSIC!!!</string>
+
+    //duygu arrayi
+    <string-array name="duygu_array" font="press_start_2p">
+        <item>Lütfen seçim yapınız...</item>
+        <item>Mutlu (•‿•)"</item>
+        <item>Enerjik (╯°▽°)╯"</item>
+        <item>Üzgün (′̥̥̥︹′̥̥̥)"</item>
+        <item>Sinirli (⋋▂⋌)"</item>
+
+    </string-array>
+</resources>
