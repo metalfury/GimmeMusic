@@ -2,6 +2,10 @@
 
 GimmeMusic is an app that makes suggestions to you daily or whenever you want.
 
+# Future Plans
+
+* Widgets will be added, so it will be possible to get suggestions from the home screen without opening the application *
+* Some Music Stream Apps Integrations will be added; so when a suggestion is made, it will be possible to automatically open the music *
 
 # Issues
 
