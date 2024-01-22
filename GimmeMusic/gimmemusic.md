@@ -14,31 +14,31 @@ The application's logo was prepared using Adobe XD, and the gif used in the appl
 ## 3. Application
 The icon of the application has been replaced with the logo I created. The top bar has been removed, and a black theme is used in the application.
 
-![Phone Screen View](Aspose.Words.a4f973c8-0f6b-41d4-adc2-71ea97066d40.001.png) 
+![Phone Screen View](https://github.com/metalfury/GimmeMusic/tree/main/GimmeMusic/src/Aspose.Words.a4f973c8-0f6b-41d4-adc2-71ea97066d40.001.png) 
 
 *Figure 1: Phone Screen View 
 
-![Application Main Screen](Aspose.Words.a4f973c8-0f6b-41d4-adc2-71ea97066d40.002.png)
+![Application Main Screen](https://github.com/metalfury/GimmeMusic/tree/main/GimmeMusic/src/Aspose.Words.a4f973c8-0f6b-41d4-adc2-71ea97066d40.002.png)
 
  Figure 2: Application Main Screen*
 
 When the "Let's Get Started" button in Figure 2 is pressed, a new activity is opened, and the main screen shown in Figure 3 is reached. As shown in Figure 4, the user can use the "Gimme Music!" button by making a selection through the spinner view and bring music based on that feature, or they can also get random music if they wish.
 
-![Mood Selection](Aspose.Words.a4f973c8-0f6b-41d4-adc2-71ea97066d40.003.png) 
+![Mood Selection](https://github.com/metalfury/GimmeMusic/tree/main/GimmeMusic/src/Aspose.Words.a4f973c8-0f6b-41d4-adc2-71ea97066d40.003.png) 
 
 *Figure 3: Mood Selection 
 
-![Music Recommendation](Aspose.Words.a4f973c8-0f6b-41d4-adc2-71ea97066d40.004.png)
+![Music Recommendation](https://github.com/metalfury/GimmeMusic/tree/main/GimmeMusic/src/Aspose.Words.a4f973c8-0f6b-41d4-adc2-71ea97066d40.004.png)
 
 Figure 4: Music Recommendation*
 
 ## 4. UML Diagrams
 
-![UML Diagram 1](Aspose.Words.a4f973c8-0f6b-41d4-adc2-71ea97066d40.005.png)
+![UML Diagram 1](https://github.com/metalfury/GimmeMusic/tree/main/GimmeMusic/src/Aspose.Words.a4f973c8-0f6b-41d4-adc2-71ea97066d40.005.png)
 
 *Figure 5: UML Diagrams*
 
-![UML Diagram 2](Aspose.Words.a4f973c8-0f6b-41d4-adc2-71ea97066d40.006.png)
+![UML Diagram 2](https://github.com/metalfury/GimmeMusic/tree/main/GimmeMusic/src/Aspose.Words.a4f973c8-0f6b-41d4-adc2-71ea97066d40.006.png)
 
 *Figure 6: UML Diagram for the Database*
 
