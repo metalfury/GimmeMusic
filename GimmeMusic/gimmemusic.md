@@ -16,21 +16,23 @@ The icon of the application has been replaced with the logo I created. The top b
 
 ![Application Main Screen](https://github.com/metalfury/GimmeMusic/blob/main/GimmeMusic/src/Aspose.Words.a4f973c8-0f6b-41d4-adc2-71ea97066d40.002.png)
 
-*Figure 1: Phone Screen View 
+Figure 1: Phone Screen View 
 
 ![Phone Screen View](https://github.com/metalfury/GimmeMusic/blob/main/GimmeMusic/src/Aspose.Words.a4f973c8-0f6b-41d4-adc2-71ea97066d40.001.png) 
 
- Figure 2: Application Main Screen*
+Figure 2: Application Main Screen
 
 ![Mood Selection](https://github.com/metalfury/GimmeMusic/blob/main/GimmeMusic/src/Aspose.Words.a4f973c8-0f6b-41d4-adc2-71ea97066d40.003.png) 
 
-*Figure 3: Mood Selection 
+When the "Let's Get Started" button in Figure 2 is pressed, a new activity is opened, and the main screen shown in Figure 3 is reached. 
+
+Figure 3: Mood Selection 
 
 ![Music Recommendation](https://github.com/metalfury/GimmeMusic/blob/main/GimmeMusic/src/Aspose.Words.a4f973c8-0f6b-41d4-adc2-71ea97066d40.004.png)
 
-Figure 4: Music Recommendation*
+Figure 4: Music Recommendation
 
-When the "Let's Get Started" button in Figure 2 is pressed, a new activity is opened, and the main screen shown in Figure 3 is reached. As shown in Figure 4, the user can use the "Gimme Music!" button by making a selection through the spinner view and bringing music based on that feature, or they can also get random music if they wish.
+As shown in Figure 4, the user can use the "Gimme Music!" button by making a selection through the spinner view and bringing music based on that feature, or they can also get random music if they wish.
 
 ## 4. UML Diagrams
 
